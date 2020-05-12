@@ -1,0 +1,1 @@
+package fr.durss.skywar.skytimer.data {	/**	 * Just provides the actual application's version	 * 	 * @author François	 */	public class AppVersion {		public static const VERSION:String = "1.0.5";	}}

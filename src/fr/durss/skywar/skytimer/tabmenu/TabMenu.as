@@ -1,0 +1,2 @@
+package fr.durss.skywar.skytimer.tabmenu {	/**	 * 	 * @author François	 */	public class TabMenu extends AbstractTabMenu implements ITabMenu {
+		//Vars declaration						/* *********** *		 * CONSTRUCTOR *		 * *********** */		public function TabMenu() {			super();		}						/* ***************** *		 * GETTERS / SETTERS *		 * ***************** */		/* ****** *		 * PUBLIC *		 * ****** */						/* ******* *		 * PRIVATE *		 * ******* */	}}

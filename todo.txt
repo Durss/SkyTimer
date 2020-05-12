@@ -1,0 +1,5 @@
+- collapse de la fen�tre pour n'avoir que le titre
+- d�pendances de timers (l'un ne commencera que lorsque l'autre aura fini)
+- Mode ni r�duit ni ouvert ni collapse avec juste les infos sur un bord d'�cran sans skin ni rien.
+- Agrandir la hauteur de la fen�tre
+- Resize de l'appli

@@ -1,0 +1,17 @@
+//Events
+- la partie commence
+- un nouveau joueur joint la partie
+- la partie se termine
+- un joueur est mort/abandonne
+- une de nos îles est attaquée
+- une de nos îles vient de subir une attaque
+- une construction se lance (type de construction, durée)
+- une construction se termine (type de construction)
+- reception d'un message sur le chat (destinataires)
+- 
+
+
+//Accessors
+- placements / propriétaires des îles
+- topographie des îles
+- 

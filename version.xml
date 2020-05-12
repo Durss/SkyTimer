@@ -1,0 +1,18 @@
+﻿<root>
+	<version><![CDATA[.5.5]]></version>
+	<updates>
+		<update><![CDATA[Drag and drop des timers pour les réorganiser.]]></update>
+		<update><![CDATA[Sauvegarde des timers après fermeture de l'application.]]></update>
+		<update><![CDATA[Focus des champs numériques donné au champ de texte pour pouvoir écrire directement dedans.]]></update>
+		<update><![CDATA[L'incrémentation / décrémentation des champs numériques impacte les autres champs.]]></update>
+		<update><![CDATA[L'édition d'un timer charge le temps courant et non le temps initial du timer dans le formulaire.]]></update>
+		<update><![CDATA[L'édition d'un timer met à jour le temps écoulé au lieu de re-créer un timer.]]></update>
+		<update><![CDATA[Timers en pause grisés.]]></update>
+		<update><![CDATA[Option permettant d'utiliser une horloge virtuelle ou l'horloge local (de l'ordinateur).]]></update>
+		<update><![CDATA[Estimation des ressources gagnées en fin de timer.]]></update>
+		<update><![CDATA[Ajout d'une bibliothèque de sons de fin de timer.]]></update>
+		<update><![CDATA[Possibilité de définir la couleur du timer.]]></update>
+		<update><![CDATA[Ajout d'une icône dans la Traybar.]]></update>
+		<update><![CDATA[En cas d'update l'onglet web est pré-seléctionné.]]></update>
+	</updates>
+</root>

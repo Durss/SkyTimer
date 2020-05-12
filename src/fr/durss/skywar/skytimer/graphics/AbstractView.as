@@ -1,0 +1,2 @@
+package fr.durss.skywar.skytimer.graphics {	import flash.display.Sprite;	/**	 * 	 * @author François	 */	public class AbstractView extends Sprite {
+		protected static const WIDTH:int	= 224;		protected static const HEIGHT:int	= 346;						/* *********** *		 * CONSTRUCTOR *		 * *********** */		public function AbstractView() { }						/* ***************** *		 * GETTERS / SETTERS *		 * ***************** */		/* ****** *		 * PUBLIC *		 * ****** */						/* ******* *		 * PRIVATE *		 * ******* */	}}
